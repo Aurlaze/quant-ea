@@ -1,0 +1,28 @@
+XAUUSDm IMPLEMENTATION COMPARISON
+======================================================================
+Start: 2025-01-01 23:00:00+00:00
+End: 2025-07-20 22:00:00+00:00
+Aligned bars: 2,949
+
+PRICE DIFFERENCES
+Close mean abs diff: 0.0808457104
+Close median abs diff: 0.0800000000
+Close max abs diff: 0.3140000000
+Close mean diff bps: 0.2632839415
+
+KALMAN DIFFERENCES
+State mean abs diff: 0.0806635479
+State max abs diff: 0.2245729690
+Residual mean abs diff: 0.0022079255
+Residual max abs diff: 0.0894270310
+
+Z-SCORE COMPARISON
+Valid Z observations: 2,889
+Z correlation: 0.9999960728
+Mean abs Z difference: 0.0010054245
+Max abs Z difference: 0.0428976065
+
+SIGNAL AGREEMENT
+Valid signal observations: 2,889
+Signal agreement: 100.000000%
+Signal disagreements: 0

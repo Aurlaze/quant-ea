@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Market data
+data/*.csv
+data/**/*.csv
+
+# Research outputs
+results/**/*.csv
+
+# Secrets
+.env
+*.key
